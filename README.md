@@ -68,7 +68,7 @@ lunar-lander/
 
 - `images/`: Contains images used in the README and notebook.
 - `utils/`: Contains helper functions and utilities for the project.
-- `C3_W3_A1_Assignment.ipynb`: Main Jupyter Notebook for training and testing the agent.
+- `Lunar_Lander.ipynb`: Main Jupyter Notebook for training and testing the agent.
 - `requirements.txt`: List of dependencies for the project.
 - `README.md`: Project documentation.
 
