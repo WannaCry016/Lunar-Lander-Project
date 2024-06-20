@@ -1,4 +1,4 @@
-# TensorFlow Lunar Lander
+# Lunar Lander
 
 ![Lunar Lander](./images/lunar_lander.gif)
 
@@ -61,7 +61,7 @@ lunar-lander/
 ├── utils/
 │   └── utils.py
 │
-├── C3_W3_A1_Assignment.ipynb
+├── Lunar_Lander.ipynb
 ├── requirements.txt
 └── README.md
 ```
